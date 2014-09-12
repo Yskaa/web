@@ -462,7 +462,8 @@ img {
     color: #404040;
     background: #ddd;
     border-right: 1px solid white;
-    padding: 9px 7.4px;
+    padding: 9px 0;
+    text-align: center;
 }
 .nav-menu li:hover{
     background: #a1fff9;
