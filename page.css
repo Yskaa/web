@@ -196,6 +196,7 @@ a:active {
 .people ul li figure figcaption {
     float:left;
     font:13px/40px Verdana;
+    color: #4e4e4e;
 }
 .people ul li figure figcaption a {
     color:#010101;
@@ -301,6 +302,9 @@ a:active {
 .ht-links {
     float:right;
     font-size:11px;
+}
+.ht-links a{
+    color: #4e4e4e;
 }
 .header-main {
     height:116px;
